@@ -7,3 +7,8 @@
 {"message":"Bookmark with id cjozyzcil0000lxygs3gyg2mr deleted.","level":"info"}
 {"message":"URL is formatted incorrectly.","level":"error"}
 {"message":"Bookmark with id a82e2956-0fb4-4326-903e-d5a9212ce103 created","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
