@@ -12,3 +12,162 @@
 {"message":"Unauthorized request to path: /","level":"error"}
 {"message":"Unauthorized request to path: /","level":"error"}
 {"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/2","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Bookmark with id 1 created","level":"info"}
+{"message":"title value is missing in request.","level":"error"}
+{"message":"url value is missing in request.","level":"error"}
+{"message":"rating value is missing in request.","level":"error"}
+{"message":"URL is formatted incorrectly.","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 1 created","level":"info"}
