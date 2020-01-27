@@ -1,3 +1,4 @@
+const path = require('path')
 const express = require('express')
 const uuid = require('uuid/v4')
 const logger = require('../logger')
@@ -15,7 +16,7 @@ const serializeBookmarks = bookmark => ({
 })
 
 bookmarksRouter
-    .route('/bookmarks')
+    .route('/')
     .get((req, res, next) => {
         
         BookmarksService.getAllBookmarks(req.app.get('db'))
@@ -64,14 +65,14 @@ bookmarksRouter
 
                 res
                     .status(201)
-                    .location(`/bookmarks/${bookmark.id}`)
+                    .location(path.posix.join(req.originalUrl, `/${bookmark.id}`))
                     .json(serializeBookmarks(bookmark));
             })
             .catch(next)
     })
 
 bookmarksRouter
-    .route('/bookmarks/:id')
+    .route('/:id')
     .all((req, res, next) => {
         BookmarksService.getById(
             req.app.get('db'),
@@ -100,6 +101,30 @@ bookmarksRouter
                 res.status(204).end()
             })
             .catch(next)
+    })
+    .patch(bodyParser, (req, res, next) => {
+        const { title, url, description, rating } = req.body
+        const updateToBookmark = { title, url, description, rating }
+
+        const numberOfValues = Object.values(updateToBookmark).filter(Boolean).length
+        if(numberOfValues === 0) {
+            return res.status(400).json({
+                error: {
+                    message: `Request must contain at least one value to update`
+                }
+            })
+        }
+
+        BookmarksService.updateBookmark(
+            req.app.get('db'),
+            req.params.id,
+            updateToBookmark,
+        )
+            .then(() => {
+                res.status(204).end()
+            })
+            .catch(next)
+
     })
 
 module.exports = bookmarksRouter;
