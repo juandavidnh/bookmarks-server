@@ -280,3 +280,14 @@
 {"message":"URL is formatted incorrectly.","level":"error"}
 {"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
 {"message":"Bookmark with id 1 created","level":"info"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Rating is incorrect. It must be a number between 0 and 5","level":"error"}
+{"message":"Bookmark with id 9 created","level":"info"}
+{"message":"Bookmark with id 10 created","level":"info"}

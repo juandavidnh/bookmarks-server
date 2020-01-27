@@ -29,7 +29,8 @@ bookmarksRouter
             .catch(next)
     })
     .post(bodyParser, (req, res, next) => {
-        const { title, url, description="", rating } = req.body;
+        const { title, url, description="" } = req.body;
+        const rating = parseInt(req.body.rating)
         const newBookmark = { title, url, description, rating };
 
         for(const field of ['title', 'url', 'rating']) {
@@ -103,7 +104,8 @@ bookmarksRouter
             .catch(next)
     })
     .patch(bodyParser, (req, res, next) => {
-        const { title, url, description, rating } = req.body
+        const { title, url, description } = req.body
+        const rating = parseInt(req.body.rating)
         const updateToBookmark = { title, url, description, rating }
 
         const numberOfValues = Object.values(updateToBookmark).filter(Boolean).length
